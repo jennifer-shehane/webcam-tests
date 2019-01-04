@@ -1,0 +1,11 @@
+{
+  "name": "webcam-tests",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Jennifer Shehane",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "3.1.4"
+  }
+}
